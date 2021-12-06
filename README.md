@@ -63,7 +63,7 @@ npm run serve
 
 # ERD
 
-![ERD](readme.assets/ERD-16378476781841.jpg)
+![](README.assets/ERD-16378476781841-16387570433781.jpg)
 
 
 
@@ -78,25 +78,25 @@ npm run serve
 
 > Home & 로그인 & 회원가입
 
-![preview1](readme.assets/preview1.gif)
+![preview1](README.assets/preview1-16387570585532.gif)
 
 
 
 >영화 페이지 & 영화 상세 페이지
 
-![preview2](readme.assets/preview2.gif)
+![preview2](README.assets/preview2-16387570604703.gif)
 
 
 
 >리뷰 페이지 & 리뷰 작성 및 상세 페이지 & 추천 페이지
 
-![preview3](readme.assets/preview3.gif)
+![preview3](README.assets/preview3-16387570622324.gif)
 
 
 
 > 게시판 페이지 & 게시판 작성 및 상세 페에지 & 마이페이지
 
-![preview4](readme.assets/preview4.gif)
+![preview4](README.assets/preview4-16387570638195.gif)
 
 
 
